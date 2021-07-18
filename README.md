@@ -220,7 +220,7 @@ The evaluation protocol follows the same mAP and mAR of area small/medium/large 
 | Mask RCNN with FPN         | R-50     | Pytorch | 0.545 | 0.450 | a73h |[model](https://pan.baidu.com/s/1RbkByB2bo-_ubb5J67puyA)|
 | Mask RCNN with FPN         | R-101    | Pytorch | 0.564 | 0.472 | 7k9i |[model](https://pan.baidu.com/s/1Hs7Fckr3l9jiZG22vSVZgg)|
 | Cascade Mask RCNN with FPN | R-50     | Pytorch | 0.593 | 0.483 | ebga |[model](https://pan.baidu.com/s/1eJynOMggSJSqW1tIkktnxg)|
-| SSD                        | VGG16    | Pytorch | 0.483 | - | otu5 |[model](链接: https://pan.baidu.com/s/1FmEcAGaJJnXtBA63jW9k9w)|
+| SSD                        | VGG16    | Pytorch | 0.483 | - | otu5 |[model](https://pan.baidu.com/s/1FmEcAGaJJnXtBA63jW9k9w)|
 | Retinanet with FPN         | R-50     | Pytorch | 0.326 | - | tu5a |[model](https://pan.baidu.com/s/11s8x7W35G7krMzQiJPCnPg)|
 | Retinanet with FPN         | R-101    | Pytorch | 0.483 | - | ptv0 |[model](https://pan.baidu.com/s/1KWx7g3bcSAGOsOVMJr36TA)|
 | FoveaBox                   | R-101    | Pytorch | 0.459 | - | 1acn |[model](https://pan.baidu.com/s/1p5ebAXwajj_A4s4HfqHfEw)|
