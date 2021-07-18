@@ -191,7 +191,7 @@ The evaluation protocol follows the same mAP and mAR of area small/medium/large 
 | Cascade Mask RCNN with FPN | R-50     | Pytorch | 0.485 | 0.365 | a8bl |[model](https://pan.baidu.com/s/12rVdQCiApQFC9SG0NI0TLQ)|
 | SSD                        | VGG16    | Pytorch | 0.397 | - | uffe |[model](https://pan.baidu.com/s/19H43Hbi1gI3n9Rq-BcZh6Q)|
 | Retinanet with FPN         | R-50     | Pytorch | 0.368 | - | lfio |[model](https://pan.baidu.com/s/1SuhdUEoeACfTk8qUe48sbw)|
-| Retinanet with FPN         | R-101    | Pytorch | 0.359 | - | p1rd |[model](链接: https://pan.baidu.com/s/1Qeu4jWH1YaJaov7WbukS4w)|
+| Retinanet with FPN         | R-101    | Pytorch | 0.359 | - | p1rd |[model](https://pan.baidu.com/s/1Qeu4jWH1YaJaov7WbukS4w)|
 | FoveaBox                   | R-101    | Pytorch | 0.389 | - | kwiq |[model](https://pan.baidu.com/s/12rKJ3HEVN_qGeFjabQabFg)|
 | FCOS with FPN              | R-101    | Pytorch | 0.351 | - | 1djo |[model](https://pan.baidu.com/s/1bWn3N9THIk5_5vdGrMy6Sw)|
 |                            |          |         |          |        |          ||
@@ -252,6 +252,5 @@ If you have any the problem or feedback in using ShipRSImageNet, please contact:
 # License
 
 ShipRSImageNet is released under the Apache 2.0 license. Please see the [LICENSE](LICENSE) file for more information.
-
 
 
