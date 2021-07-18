@@ -20,7 +20,7 @@
 
 # Examples of Annotated Images
 
-![image](https://github.com/zzndream/test/blob/main/imgs/Examples%20of%20Annotated%20Images.jpg)
+![image](https://github.com/zzndream/ShipRSImageNet/blob/main/imgs/Examples%20of%20Annotated%20Images.jpg)
 
 # Image Source and Usage License
 
@@ -42,7 +42,7 @@ All images and their associated annotations in ShipRSImageNet **can be used for 
 
 The ship classification tree of proposed ShipRSImageNet is shown in the following figure. Level 0 distinguish whether the object is a ship, namely Class. Level 1 further classifies the ship object category, named as Category. Level 2 further subdivides the categories based on Level 1. Level 3 is the specific type of ship, named as Type. 
 
-![image](https://github.com/zzndream/test/blob/main/imgs/ShipRSImageNet_categories_tree.jpg)
+![image](https://github.com/zzndream/ShipRSImageNet/blob/main/imgs/ShipRSImageNet_categories_tree.jpg)
 
 At Level 3, ship objects are divided into **50** types. For brevity, we use the following abbreviations: DD for Destroyer, FF for Frigate, LL for Landing, AS for Auxiliary Ship, LSD for Landing Ship Dock, LHA for Landing Heli- copter Assault Ship, AOE for Fast Combat Support Ship, EPF for Expeditionary Fast Transport Ship, and RoRo for Roll- on Roll-off Ship. These 50 object classes are Other Ship, Other Warship, Submarine, Other Aircraft Carrier, Enterprise, Nimitz, Midway, Ticonderoga, Other Destroyer, Atago DD, Arleigh Burke DD, Hatsuyuki DD, Hyuga DD, Asagiri DD, Other Frigate, Perry FF, Patrol, Other Landing, YuTing LL, YuDeng LL, YuDao LL, YuZhao LL, Austin LL, Osumi LL, Wasp LL, LSD 41 LL, LHA LL, Commander, Other Auxiliary Ship, Medical Ship, Test Ship, Training Ship, AOE, Masyuu AS, Sanantonio AS, EPF, Other Merchant, Container Ship, RoRo, Cargo, Barge, Tugboat, Ferry, Yacht, Sailboat, Fishing Vessel, Oil Tanker, Hovercraft, Motorboat, and Dock.
 
