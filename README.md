@@ -241,7 +241,7 @@ The [ShipRSImageNet Development kit](https://github.com/zzndream/ShipRSImageNet_
 If you make use of the ShipRSImageNet  dataset, please cite our following paper:
 
 ```
-Z. Zhang, L. Zhang, Y. Wang, P. Feng and R. He, "ShipRSImageNet: A Large-scale Fine-Grained Dataset for Ship Detection in High-Resolution Optical Remote Sensing Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2021.3104230.
+Z. Zhang, L. Zhang, Y. Wang, P. Feng and R. He, "ShipRSImageNet: A Large-Scale Fine-Grained Dataset for Ship Detection in High-Resolution Optical Remote Sensing Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 8458-8472, 2021, doi: 10.1109/JSTARS.2021.3104230.
 ```
 # Contact
 
