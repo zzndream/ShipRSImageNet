@@ -20,7 +20,8 @@
 
 # What's New
 
-**Test set** has been released to make the dataset more comprehensive and accessible. In ShipRSImageNet V1.1, we are excited to announce the addition of a dedicated **test set**. This update significantly enhances the dataset by providing a standardized evaluation split, enabling fair comparison and benchmarking of ship detection algorithms. The new test set is carefully curated to reflect diverse scenarios and ship categories, ensuring robust assessment of model performance in real-world conditions. We hope this improvement will facilitate further research and innovation in fine-grained ship detection and classification using high-resolution remote sensing imagery.
+We uadate ShipRSImageNet to V1.1 to make the dataset more comprehensive and user-friendly, ShipRSImageNet V1.1 now includes a dedicated **test set**. This update introduces a standardized evaluation split, which supports fair comparison and benchmarking of ship detection algorithms. The test set has been carefully selected to cover diverse scenarios and ship categories, enabling effective assessment of model performance in real-world applications. 
+
 
 # Examples of Annotated Images
 
