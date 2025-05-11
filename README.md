@@ -53,7 +53,7 @@ At Level 3, ship objects are divided into **50** types. For brevity, we use the 
 # Dataset Download
 
 - Baidu Drive (Extraction code:4g8n):
-  - [ShipRSImageNet V1.1]([https://pan.baidu.com/s/1x6zrw39aOzohEBo1MM0RQQ](https://pan.baidu.com/s/1xXukay8k-GOW5_x1UYHsTg?pwd=4g8n))
+  - [ShipRSImageNet V1.1]([https://pan.baidu.com/s/1x6zrw39aOzohEBo1MM0RQQ](https://pan.baidu.com/s/1xXukay8k-GOW5_x1UYHsTg?pwd=4g8n)
 
 # Benchmark Code Installation
 
