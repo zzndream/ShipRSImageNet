@@ -18,6 +18,10 @@
 
 -  ***We have benchmarked several state-of-the-art object detection algorithms on ShipRSImageNet, which can be used as a baseline for future ship detection methods.***
 
+# What's New
+
+**Test set** has been released to make the dataset more comprehensive and accessible. In ShipRSImageNet V1.1, we are excited to announce the addition of a dedicated **test set**. This update significantly enhances the dataset by providing a standardized evaluation split, enabling fair comparison and benchmarking of ship detection algorithms. The new test set is carefully curated to reflect diverse scenarios and ship categories, ensuring robust assessment of model performance in real-world conditions. We hope this improvement will facilitate further research and innovation in fine-grained ship detection and classification using high-resolution remote sensing imagery.
+
 # Examples of Annotated Images
 
 ![image](https://github.com/zzndream/ShipRSImageNet/blob/main/imgs/Examples%20of%20Annotated%20Images.jpeg)
@@ -48,10 +52,8 @@ At Level 3, ship objects are divided into **50** types. For brevity, we use the 
 
 # Dataset Download
 
-- Baidu Drive (Extraction code:h2qk):
-  - [ShipRSImageNet](https://pan.baidu.com/s/1x6zrw39aOzohEBo1MM0RQQ)
-- Google Drive:
-  - [ShipRSImageNet](https://drive.google.com/file/d/1wApkaSoa9mXRfXQiq6lTtlVrv4cSc6vv/view?usp=sharing)
+- Baidu Drive (Extraction code:4g8n):
+  - [ShipRSImageNet V1.1]([https://pan.baidu.com/s/1x6zrw39aOzohEBo1MM0RQQ](https://pan.baidu.com/s/1xXukay8k-GOW5_x1UYHsTg?pwd=4g8n))
 
 # Benchmark Code Installation
 
