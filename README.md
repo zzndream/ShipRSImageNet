@@ -21,6 +21,7 @@
 # What's New
 
 We uadate ShipRSImageNet to V1.1 to make the dataset more comprehensive and user-friendly, ShipRSImageNet V1.1 now includes a dedicated **test set**. This update introduces a standardized evaluation split, which supports fair comparison and benchmarking of ship detection algorithms. The test set has been carefully selected to cover diverse scenarios and ship categories, enabling effective assessment of model performance in real-world applications. 
+Now the full dataset is also available through the Google Drive link we shared! For the specific link, please see the "Dataset Download" section.
 
 
 # Examples of Annotated Images
@@ -52,6 +53,9 @@ The ship classification tree of proposed ShipRSImageNet is shown in the followin
 At Level 3, ship objects are divided into **50** types. For brevity, we use the following abbreviations: DD for Destroyer, FF for Frigate, LL for Landing, AS for Auxiliary Ship, LSD for Landing Ship Dock, LHA for Landing Heli- copter Assault Ship, AOE for Fast Combat Support Ship, EPF for Expeditionary Fast Transport Ship, and RoRo for Roll- on Roll-off Ship. These 50 object classes are Other Ship, Other Warship, Submarine, Other Aircraft Carrier, Enterprise, Nimitz, Midway, Ticonderoga, Other Destroyer, Atago DD, Arleigh Burke DD, Hatsuyuki DD, Hyuga DD, Asagiri DD, Other Frigate, Perry FF, Patrol, Other Landing, YuTing LL, YuDeng LL, YuDao LL, YuZhao LL, Austin LL, Osumi LL, Wasp LL, LSD 41 LL, LHA LL, Commander, Other Auxiliary Ship, Medical Ship, Test Ship, Training Ship, AOE, Masyuu AS, Sanantonio AS, EPF, Other Merchant, Container Ship, RoRo, Cargo, Barge, Tugboat, Ferry, Yacht, Sailboat, Fishing Vessel, Oil Tanker, Hovercraft, Motorboat, and Dock.
 
 # Dataset Download
+
+- Google Drive:
+  - [ShipRSImageNet V1.1](https://drive.google.com/file/d/1_6FYGZQowFC_l5PHZkRtL70VB-vwT8Td/view?usp=drive_link)
 
 - Baidu Drive (Extraction code:6w5i):
   - [ShipRSImageNet V1.1](https://pan.baidu.com/s/1aBbiS4aR21Z0Jmmnsl4Y0w)
@@ -256,5 +260,3 @@ If you have any the problem or feedback in using ShipRSImageNet, please contact:
 # License
 
 ShipRSImageNet is released under the Apache 2.0 license. Please see the [LICENSE](LICENSE) file for more information.
-
-
